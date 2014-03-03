@@ -17,5 +17,6 @@ namespace EurounicornAPI.DtoObjects
         public string StageName;
         public string Musicians;
         public string Composers;
+
     }
 }
